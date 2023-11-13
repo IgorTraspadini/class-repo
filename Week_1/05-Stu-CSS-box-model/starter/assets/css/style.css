@@ -1,0 +1,16 @@
+section {
+  width: 550px;
+  height: 550px;
+  padding: 20px;
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border: 5px solid blue;
+  padding: 15px;
+  margin: 15px;
+  background-color: lightblue;
+}
