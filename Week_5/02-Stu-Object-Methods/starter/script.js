@@ -25,6 +25,6 @@ if (shelter.dogs.includes(chosenPet)) {
   catMessage();
 } else {
   console.log("It looks like the pet is not available.");
-  console.log("Check out our featured dog, " + shelter[0] + ". or our featured cat, " + cat.shelter[1]);
+  console.log("Check out our featured dog, " + shelter.dogs[0] + ". or our featured cat, " + shelter.cats[1]);
 }
 
